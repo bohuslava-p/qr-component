@@ -26,7 +26,7 @@ main
     background: white;
     width: 320px;
     height: 492px;
-    padding: 16px;
+    padding: 16px 16px 336px 16px;
     border-radius: 20px;
     text-align: center;
     margin-top: auto;
